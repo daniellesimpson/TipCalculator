@@ -1,3 +1,6 @@
+
+Danielle Simpson
+
 # TipCalculator
 Completed Tip Calculator for CodePath 
 
